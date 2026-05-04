@@ -1,5 +1,10 @@
 # Amazon Prime Clone Deployment Project
-![Pipeline Overview](./images/pipeline.png)
+
+## Pipeline Overview
+
+<p align="center">
+  <img src="./images/pipeline.png" width="800"/>
+</p>
 
 
 ## Project Overview
